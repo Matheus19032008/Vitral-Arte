@@ -1,20 +1,33 @@
+<<<<<<< HEAD
 *{
+=======
+* {
+>>>>>>> cc6472a30043a3550994982c2da22d47e752248f
     margin: 0;
     border: 0;
     padding: 0;
     text-decoration: none;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> cc6472a30043a3550994982c2da22d47e752248f
 @font-face {
     font-family: "Open";
     src: url(fonte/OpenSans-VariableFont_wdth\,wght.ttf);
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> cc6472a30043a3550994982c2da22d47e752248f
 @font-face {
     font-family: "RobotoB";
     src: url(fonte/Roboto-Bold.ttf);
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> cc6472a30043a3550994982c2da22d47e752248f
 @font-face {
     font-family: "RobotoR";
     src: url(fonte/Roboto-Regular.ttf);
@@ -30,6 +43,7 @@
 
 .azul {
     background-color: #106EEA;
+<<<<<<< HEAD
    display: flex;
    justify-content: space-between;
    padding: 10px 100px;
@@ -42,6 +56,20 @@
 h1{
 font-family: "RobotoB";
 font-size: 45px;
+=======
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 100px;
+}
+.azul a {
+    color: white;
+    font-family: "Open";
+    font-size: 20px;
+}
+h1 {
+    font-family: "PoppinsB";
+    font-size: 45px;
+>>>>>>> cc6472a30043a3550994982c2da22d47e752248f
 }
 .header {
     display: flex;
@@ -65,9 +93,16 @@ font-size: 45px;
     background-size: cover;
     background-position: center;
     display: flex;
+<<<<<<< HEAD
     flex-direction: column ;
     align-items: flex-end;
     justify-content: center;
+=======
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+
+>>>>>>> cc6472a30043a3550994982c2da22d47e752248f
 }
 .inicio h1 {
     font-size: 60px;
@@ -75,6 +110,7 @@ font-size: 45px;
 .inicio h4 {
     font-family: "PoppinsR";
     font-size: 40px;
+<<<<<<< HEAD
     font-weight: 100;
 }
 .inicio div {
@@ -322,3 +358,10 @@ input::placeholder, textarea ::placeholder {
         margin: 40px 200px 80px;
     }
     
+=======
+    font-weight: 300;
+}
+.inicio div {
+    text-align: center;
+}
+>>>>>>> cc6472a30043a3550994982c2da22d47e752248f
